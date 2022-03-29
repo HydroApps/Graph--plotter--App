@@ -33,7 +33,7 @@
  ```
  .\graph_plotter
  ```
- --The file will run successfully. If its not working refer 'common issues' for solutions.
+ --The file will run successfully. If its not working refer 'Known issues ' for solutions.
  
  #### 🕹️User guide 
    Step by step instructions for using the app. These will be displayed in your terminal too.
@@ -98,6 +98,19 @@
         Note: Enter zero for no rotation
         
 * Tada!! 🥳 Your graph is ready!!🙂
+
+#### 📌Known issues
+  --ValueError: invalid literal for int() with base 10: 'd' ['d' or any other string value]
+    
+    Solution: Make sure you insert an integer in place of width,height,x and y values [expect 'stop'], fontsize and degree of rotation.
+   
+  --Virus Warning :
+  
+     Solution: This application is not a virus. Make it exception from start > Settings > Update & Security > Windows Security > Virus & threat protection or the settings of your antivirus. 
+     
+     
+
+  
 
 
  
