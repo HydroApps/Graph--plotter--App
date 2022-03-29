@@ -3,7 +3,8 @@
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
  Since the application runs in a bat file please make sure your operating system supports it.  
  
-### 🤔How to run Graph-plotter-App?
+### 📦Installation
+  Since the app is portable it doesn't recquire any installation. Do the following steps to run the application. 
 
  --Download the files as zip or use the following command 
  ```
@@ -17,8 +18,11 @@
  ```
  --Open your termial and change directory using the following command
  ```
- $ cd ../path/to/the/file
+ $ cd ../path/to/the/folder
  ```
- 
- 
+ --Run the batch file
+ ```
+ .\graph_plotter
+ ```
+ --The file will run successfully. If its not working refer 'common issues' for solutions.
  
