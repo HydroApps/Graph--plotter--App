@@ -138,7 +138,13 @@
        python -m pip install colorama
        python -m pip install matplotlib
        
-#### 📸 Screenshots [V 0.1.0]
+#### 📸 Screenshots [V 0.1.0] in cmder console 
+
+1. ![Screenshot (142)](https://user-images.githubusercontent.com/101416024/160813392-bb47ad3e-6a23-40ee-935b-4cd1d10531c8.png)
+2. ![Screenshot (143)](https://user-images.githubusercontent.com/101416024/160813919-09666bda-cdc7-481f-b804-00ad76668b93.png)
+3. ![Screenshot (144)](https://user-images.githubusercontent.com/101416024/160813940-719ffe47-276c-43da-b42a-4a48ab77cac4.png)
+
+
 
 #### 📂 All versions/Releases [Gdrive folder]
         https://drive.google.com/drive/u/3/folders/1A32aw4WDE972QZqB89wT6JDSQQpCkzwk
@@ -162,11 +168,5 @@
   --Discord: Loki_Laufeyson#2473
 
   --Join our Telegram Channel for news of new updates. [https://t.me/HydroApps616]
-
-       
-       
-
-  
-
 
  
