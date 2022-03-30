@@ -107,8 +107,19 @@
   --Virus Warning :
   
      Solution: This application is not a virus. Make it exception from start > Settings > Update & Security > Windows Security > Virus & threat protection or the settings of your antivirus. 
-     
-     
+   
+  --Dll missing :
+       
+       Solution: Update your pc or refer any of the below links:
+       https://answers.microsoft.com/en-us/windows/forum/all/api-ms-win-crt-runtime-l1-1-0dll-is-missing/b593b94e-6691-423b-a586-0b7f10131e35
+       https://youtu.be/TQ2XAmGDLmU 
+       If you want to download the dll refer: https://www.dll-files.com
+           
+  --Bat file not working :
+      
+       Solution : Please make sure your os supports batch files
+       
+  --     
 
   
 
