@@ -11,6 +11,8 @@
  4.[Known issues](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#known-issues)
  
  5.[Contact me](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#contact-me-)
+ 
+ 6.[Screenshots]
   
 #### 📝About
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
