@@ -12,7 +12,9 @@
  
  5.[Contact me](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#contact-me-)
  
- 6.[Screenshots]
+ 6.[Screenshots]()
+ 
+ 7.[All versions]()
   
 #### 📝About
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
@@ -136,6 +138,7 @@
        
 #### 📞Contact me : 
   You are free👍 to contact me regarding any issues/problems in any of my apps 🔥: 
+  
   --Telegram: https://t.me/Loki_Laufeyson_2473 
 
   --Email: manwiththegoldengun837@gmail.com 
