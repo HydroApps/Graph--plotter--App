@@ -7,6 +7,8 @@
  2.[Installation](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#installation)
   
  3.[User guide](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#userguide)
+ 
+ 4.[Known issues](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#known-issues)
   
 #### 📝About
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
@@ -97,7 +99,7 @@
            Output: #The x or y label will rotate 30 degree
         Note: Enter zero for no rotation
         
-* Tada!! 🥳 Your graph is ready!!🙂
+* Tada!! 🥳 Your graph is ready!!🙂. You can save your graph now.
 
 #### 📌Known issues
   --ValueError: invalid literal for int() with base 10: 'd' ['d' or any other string value]
@@ -119,7 +121,18 @@
       
        Solution : Please make sure your os supports batch files
        
-  --     
+#### 📞Contact me : 
+  You are free👍 to contact me regarding any issues/problems in any of my apps 🔥: 
+  --Telegram: https://t.me/Loki_Laufeyson_2473 
+
+  --Email: manwiththegoldengun837@gmail.com 
+
+  --Discord: Loki_Laufeyson#2473
+
+  --Join our Telegram Channel for news of new updates. [https://t.me/HydroApps616]
+
+       
+       
 
   
 
