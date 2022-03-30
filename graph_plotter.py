@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import numpy as np 
 print(Fore.BLUE + 'Graph-- Plotter \u00A92022'), print('V 0.1.0')
 print(Fore.WHITE + 'Graph-- Plotter made by HydroApps [https://github.com/hydroapps]')
-print(Fore.ORANGE + '''This program comes with ABSOLUTELY NO WARRANTY; for details refer 'LICENSE.md'.
+print(Fore.GREEN + """This program comes with ABSOLUTELY NO WARRANTY; for details refer 'LICENSE.md'.
     This is free software, and you are welcome to redistribute it
-    under certain conditions;refer 'LICENSE.md' for details.''')
+    under certain conditions;refer 'LICENSE.md' for details.""")
 print(Fore.WHITE + """Refer 'Readme' file for solutions of some common issues
 You are free to contact me :
   Discord:Loki_Laufeyson#2473 
