@@ -9,6 +9,8 @@
  3.[User guide](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#userguide)
  
  4.[Known issues](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#known-issues)
+ 
+ 5.[Contact me](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#contact-me-)
   
 #### 📝About
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
@@ -120,6 +122,15 @@
   --Bat file not working :
       
        Solution : Please make sure your os supports batch files
+       
+  --Module missing error :
+      
+       Solution :Run the following command: 
+       python -m pip install -r requirements.txt
+       
+       Alternate solution: Run the following command:
+       python -m pip install colorama
+       python -m pip install matplotlib
        
 #### 📞Contact me : 
   You are free👍 to contact me regarding any issues/problems in any of my apps 🔥: 
