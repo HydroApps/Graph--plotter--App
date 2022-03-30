@@ -10,11 +10,13 @@
  
  4.[Known issues](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#known-issues)
  
- 5.[Screenshots]()
+ 5.[Screenshots](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#-screenshots-v-010)
  
- 6.[All versions]()
+ 6.[All versions](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#-all-version-gdrive-folder)
  
- 7.[Contact me](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#contact-me-)
+ 7.[License](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#license-)
+ 
+ 8.[Contact me](https://github.com/HydroApps/Graph--plotter--App/edit/main/README.md#contact-me-)
   
 #### 📝About
  Graph plotter App helps you to plot graph easily and that too through a terminal😺. It is lightweight and also fully portable.
@@ -138,7 +140,16 @@
        
 #### 📸 Screenshots [V 0.1.0]
 
-#### 📂 All version [Gdrive folder]
+#### 📂 All versions/Releases [Gdrive folder]
+        https://drive.google.com/drive/u/3/folders/1A32aw4WDE972QZqB89wT6JDSQQpCkzwk
+        
+        Version will be given in Version file [open in browser]
+        
+#### 📌License : 
+
+    
+     📃Licensed as Open Source under GNU General Public License v3.0. 
+       For more info refer LICENSE.md
     
 
 #### 📞Contact me : 
