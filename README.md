@@ -23,6 +23,8 @@
  Since the application runs in a bat file please make sure your operating system supports it.  
  
 #### 📦Installation
+  ==Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io==
+  
   Since the app is portable it doesn't recquire any installation. Do the following steps to run the application. 
 
  --Download the files as zip or use the following command 
@@ -32,7 +34,7 @@
  --Go to the cloned or downloaded folder and edit the bat file as follows
  ```
  @echo off
-"give the path of python.exe in 'venv' folder " "give the path of graph_plotter.py"
+"give the path of python.exe in 'venv' folder " "give the path of graph_plotter.py" 
  pause
  ```
  --Open your termial and change directory using the following command
@@ -137,6 +139,11 @@
        Alternate solution: Run the following command:
        python -m pip install colorama
        python -m pip install matplotlib
+       
+  --Bat file not running :
+      No Python at 'F:\USB drive--portable apps\WinPython64\WPy64-39100\python-3.9.10.amd64\python.exe'
+      Solution: Do the following: 
+      Delete the venv folder . Edit the bat file and link graph_plotter.py to main python.exe in your programs folder. Now run the batch file.
        
 #### 📸 Screenshots [V 0.1.0] in cmder console 
 
