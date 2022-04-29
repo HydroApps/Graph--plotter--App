@@ -142,6 +142,7 @@
        
   --Bat file not running :
       No Python at 'F:\USB drive--portable apps\WinPython64\WPy64-39100\python-3.9.10.amd64\python.exe'
+      
       Solution: Do the following: 
       Delete the venv folder . Edit the bat file and link graph_plotter.py to main python.exe in your programs folder. Now run the batch file.
        
