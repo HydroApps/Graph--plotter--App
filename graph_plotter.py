@@ -10,7 +10,6 @@ print(Fore.WHITE + """Refer 'Readme' file for solutions of some common issues
 You are free to contact me :
   Discord:Loki_Laufeyson#2473 
   Telegram:https://t.me/Loki_Laufeyson_2473 
-  Email: manwiththegoldengun837@gmail.com
 if you find more issues/errors. """)
 print("Give the graphsize/ width and height of the graph[in inches]. NOTE:By default they are 6.4 and 4.8 respectively : ")
 m=int(input('Enter width:'))
