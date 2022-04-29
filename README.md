@@ -23,7 +23,7 @@
  Since the application runs in a bat file please make sure your operating system supports it.  
  
 #### 📦Installation
-  == Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io ==
+  <mark> Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io </mark>
   
   Since the app is portable it doesn't recquire any installation. Do the following steps to run the application. 
 
