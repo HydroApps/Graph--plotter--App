@@ -1,5 +1,6 @@
 [![Setup file](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://drive.google.com/uc?export=download&id=12MlGuNwmZxT7nMWF2790F0fXbb-xlOy5) 
 [![Python required](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blue_Python_3.7_Shield_Badge.svg/76px-Blue_Python_3.7_Shield_Badge.svg.png)](https://www.python.org)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Graph--plotter--App v 0.1.0
 
