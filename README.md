@@ -25,8 +25,8 @@
 #### 📦Installation
   <mark> Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io </mark>
   
-  Since the app is portable it doesn't recquire any installation. Do the following steps to run the application. 
-
+  You can also download setup file by clicking the below link: 
+ 
  --Download the files as zip or use the following command 
  ```
  $ git clone https://github.com/HydroApps/Graph--plotter--App.git 
