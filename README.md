@@ -25,7 +25,7 @@
 #### 📦Installation
   <mark> Installation of Python 3.9 is recommended.If you are using low end pc download portable python; Winpython from https://winpython.github.io </mark>
   
-  You can also download setup file by clicking the below link: 
+  Also you can download setup file by clicking the below link: 
  
      https://drive.google.com/uc?export=download&id=12MlGuNwmZxT7nMWF2790F0fXbb-xlOy5
 
