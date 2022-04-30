@@ -1,4 +1,4 @@
-## Graph--plotter--App V 1.0
+## Graph--plotter--App V 0.1.0
 
 ### Table of contents: 
 
