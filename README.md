@@ -27,7 +27,9 @@
   
   You can also download setup file by clicking the below link: 
  
- --Download the files as zip or use the following command 
+     https://drive.google.com/uc?export=download&id=12MlGuNwmZxT7nMWF2790F0fXbb-xlOy5
+
+ --Download the files as zip/setup or use the following command 
  ```
  $ git clone https://github.com/HydroApps/Graph--plotter--App.git 
  ```
