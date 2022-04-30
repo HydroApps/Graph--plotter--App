@@ -154,10 +154,13 @@
 
 
 
-#### 📂 All versions/Releases [Gdrive folder]
-        https://drive.google.com/drive/u/3/folders/1A32aw4WDE972QZqB89wT6JDSQQpCkzwk
+#### 📂 All versions/Releases 
         
-  
+   For all releases refer Releases in Github :  [📂](https://github.com/HydroApps/Graph--plotter--App/releases)
+   
+   or the Gdrive folder link:  [💾](https://drive.google.com/drive/folders/1A32aw4WDE972QZqB89wT6JDSQQpCkzwk?usp=sharing)
+   
+   
   Version will be given in Version file [open in browser]
         
 #### 📌License : 
